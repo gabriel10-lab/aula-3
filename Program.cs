@@ -1,2 +1,3 @@
 ﻿Console.WriteLine("Hello, magic");
-Console.WriteLine(agora);
+Console.WriteLine("Agora");
+Console.WriteLine("EtecAB")
