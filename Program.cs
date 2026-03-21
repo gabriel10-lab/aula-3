@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Hello, magic");
-Console.WriteLine("Agora");
-Console.WriteLine("EtecAB");
-Console.WriteLine("Mongagua,santos")
+﻿Console.Read();
+Console.WriteLine("Preparar...");
+
+Console.Read();
+Console.WriteLine("Apontar...");
+
+Console.Read()
+Console.WriteLine("Fogo!!!")
