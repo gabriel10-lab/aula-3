@@ -1,8 +1,2 @@
-﻿Console.Read();
-Console.WriteLine("Preparar...");
-
-Console.Read();
-Console.WriteLine("Apontar...");
-
-Console.Read()
-Console.WriteLine("Fogo!!!")
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
