@@ -1,8 +1,5 @@
-﻿Console.ReadKey();
-Console.WriteLine("Preparar");
+﻿Console.WriteLine( "  ||  || ");
+Console.WriteLine( ""  \\()// "" );
+Console.WriteLine( "" //(__)\\ "" );
+Console.WriteLine( ""  ||    || "" );
 
-Console.Read();
-Console.WriteLine("Apontar...");
-
-Console.Read();
-Console.WriteLine("Fogo!!!");
